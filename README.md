@@ -32,5 +32,5 @@ This project is a **modern and responsive popup modal** that appears when a butt
 ## 🚀 How to Use
 1. **Download or Clone** this repository:
    ```sh
-   git clone https://github.com/yourusername/popup-window.git
+   git clone https://github.com/Moizkh3/popup-window.git
 
