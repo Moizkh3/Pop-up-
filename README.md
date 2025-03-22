@@ -13,3 +13,24 @@ This project is a **modern and responsive popup modal** that appears when a butt
 ---
 
 ## 🏗️ Project Structure
+
+
+- `index.html` → Contains the button to trigger the popup and the modal structure.  
+- `style.css` → Defines the popup's appearance, animations, and responsiveness.  
+- `script.js` → Handles the opening and closing of the popup.  
+- `images/` → Contains assets such as icons or images used in the popup.  
+
+---
+
+## 💻 Technologies Used
+- **HTML5** – Structure of the popup.
+- **CSS3** – Styling and animations.
+- **JavaScript (ES6)** – Popup functionality.
+
+---
+
+## 🚀 How to Use
+1. **Download or Clone** this repository:
+   ```sh
+   git clone https://github.com/yourusername/popup-window.git
+
